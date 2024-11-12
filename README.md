@@ -60,15 +60,7 @@ My journey in Computer Informations has led me to develop a passion for cybersec
 </div>
 
 ## Projects
--
--
--
--
--
--
--
--
--
--
--
+- Python basic Coding 
+- C# basic coding
+
 
